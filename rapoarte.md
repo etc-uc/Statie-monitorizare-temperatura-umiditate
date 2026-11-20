@@ -7,4 +7,4 @@
 - Identificarea componentelor necesare proiectului.
 
 ## Săptămâna 18.11.2026 - 25.11.2026
-Până la finalul acestei săptămâni trebuie să termin schema electrica și să încep realizarea cablajului.
+Până la finalul acestei săptămâni trebuie să termin schema electrică și să încep realizarea cablajului.
